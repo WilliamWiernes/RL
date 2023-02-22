@@ -1,0 +1,26 @@
+
+/* Fuente Cinzel */
+@font-face {
+    font-family: Cinzel;
+    src: url(src\font\Cinzel\Cinzel-VariableFont_wght.ttf);
+}
+
+#body{
+    font-family: Cinzel !important;
+}
+
+#nav{
+    font-weight: 900;
+}
+
+#logRL{
+    border-radius: 10%;
+}
+
+#principal{
+    font-size: 1.2rem;
+}
+
+button{
+    font-size: 1.1rem !important;
+}
